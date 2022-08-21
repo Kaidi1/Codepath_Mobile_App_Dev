@@ -4,10 +4,8 @@
   - This app simply allows the user to change the color of the text on screen. 
   
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="![prework](https://user-images.githubusercontent.com/62517289/185812582-9af0de5f-d5cb-430e-8a9f-233c3745aeb8.gif)
- "width=200><br>
+<img src="https://user-images.githubusercontent.com/62517289/185812582-9af0de5f-d5cb-430e-8a9f-233c3745aeb8.gif"width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
